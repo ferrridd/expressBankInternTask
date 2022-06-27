@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+You have to firstly select categories from dropdown menus and after that when you click to one of the categories shown below, a sliding up panel will appear
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
